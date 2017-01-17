@@ -1,4 +1,5 @@
 # Albert Akhmetov
+C# Developer
 
 [Email](akhmetov@live.com) |
 [Twitter](twitter.com/albertakhmetov) |
@@ -9,6 +10,7 @@ Fan of TDD, architectural patterns and clean code. Prefer to develop fast and st
 teams. In work, I try to deepen my knowledge and learn something new.
 
 ## Skills & Abilities
+
 ### .NET 1.x, 2.0, 3.x, 4.x with C#
 Expert in using C#, LINQ, multithreading (concurrency) and network programming. Extensive experience
 developing a wide range of applications including desktop and services using Visual Studio. In-depth
